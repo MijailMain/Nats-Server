@@ -18,4 +18,5 @@ This Code allows the remote connection by which you can execute from remote mach
 2. Subcriber-Face-Detection.py --> (gets the messages from the Nat server, which were posted from "Face-Detection")
 3. Subcriber-State-Manager.py --> (gets the messages from the Nat server, which were published from "State-Manager")
 
+# Save File
 All Messages are saved in the path 'C:/File-Nats/Kiosk-Message/'
